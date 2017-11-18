@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Website for my portfolio so i can show case my projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexjr1194/Portfolio.git"
+  },
+  "author": "Cecilio A Ramirez Cordova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexjr1194/Portfolio/issues"
+  },
+  "homepage": "https://github.com/alexjr1194/Portfolio#readme"
+}
