@@ -1,9 +1,12 @@
 var express = require('express');
 var app = express();
+var path = require('path');
 
 var port = process.env.PORT || 8080;
 
 var exphbs = require('express-handlebars');
+
+app.use('/public', express.static('public'));
 
 app.set('views', './views');
 app.engine('hbs', exphbs({
