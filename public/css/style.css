@@ -21,6 +21,15 @@ body {
   border-left-color: black;
 }
 
+.projects {
+  background-color: grey;
+}
+.port-connect {
+  background-color: grey;
+  border-left-color: black;
+  border-left: solid;
+}
+
 
 
 
