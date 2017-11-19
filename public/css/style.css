@@ -1,9 +1,46 @@
 body {
   background-color: black;
 }
-#pro-pic {
-  width: 100px;
+
+.header {
+  background-color: grey;
 }
+
+.footer {
+  text-align: center;
+  background-color: grey;
+}
+
+.aboutMe {
+  background-color: grey;
+}
+
+.pro-connectme {
+  background-color: grey;
+  border-left: solid;
+  border-left-color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#pro-pic {
+  width: 128px;
+}
+
 .connect-img {
   width: 67.5px;
 }
@@ -14,4 +51,8 @@ body {
 
 .contact-img {
   width: 212px;
+}
+
+.active {
+  background-color: #4f5b66;
 }
